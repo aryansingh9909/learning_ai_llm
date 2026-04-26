@@ -1,3 +1,7 @@
+"""
+This script is used to generate text using the Gemini API.
+"""
+
 from google import genai
 
 
